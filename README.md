@@ -6,4 +6,6 @@
 
 # ✨Learning Notes
 
-## Building Single-Page Applications (SPAs) with React
+## Getting Started
+
+[Exploring React.js Alternatives (Angular / Vue)](https://academind.com/tutorials/angular-vs-react-vs-vue-my-thoughts/)
