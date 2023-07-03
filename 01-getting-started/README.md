@@ -3,7 +3,7 @@
 ## prerequisites
 
 1. download and install nodejs: https://nodejs.org/en/download/
-    
+
 2. setup formatting for vscode
     - format documant: shift + alt + f
     - prettier command: ctrl + shift + p
