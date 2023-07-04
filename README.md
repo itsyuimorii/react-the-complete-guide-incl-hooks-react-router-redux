@@ -17,9 +17,9 @@ Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router
 
 |Section|Topic|Problem Sets|
 |-----|-----------|----|
-|Section 1 | Getting Started ||
-|Section 2| Javascript refresher ||
-|Section 3 | React Basics & Working with Components ||
+|Section 1 | Getting Started |[code]([01-getting-started](https://github.com/itsyuimorii/React-the-complete-guide-incl-hooks-react-router-redux/tree/main/01-getting-started))|
+|Section 2| Javascript refresher |[code]([02-js-refresher](https://github.com/itsyuimorii/React-the-complete-guide-incl-hooks-react-router-redux/tree/main/02-js-refresher))|
+|Section 3 | React Basics & Working with Components |[code]([03-react-basics-working-with-components](https://github.com/itsyuimorii/React-the-complete-guide-incl-hooks-react-router-redux/tree/main/03-react-basics-working-with-components))|
 |Section 4| Component Basics |  |
 |Section 5 | React State & Woking with Events       |              |
 |           |                                        |              |
