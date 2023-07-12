@@ -1,40 +1,41 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
 * {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Bacasime Antique', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* background-color: #2d2834; */
-  background: radial-gradient(#27212e, #221530);
-  color: #d9c9ee;
+  background: #E0F3FD;
+   
 }
 
 header {
-  padding: 2rem;
+  margin-top:10rem;
+  padding: 1.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 3rem;
   text-align: center;
 }
 
-header img {
-  width: 7rem;
-}
+ 
 
 header h1 {
   margin: 0;
-  font-size: 1.5rem;
+  white-space: nowrap;
+  font-size: 2rem;
+  letter-spacing: 0.08rem;
 }
 
 header p {
   margin: 0;
+  padding-top: 0.8rem;
+  font-size: 1.2rem;
 }
 
 #concepts {
@@ -51,19 +52,19 @@ header p {
   justify-content: flex-start;
   align-items: center;
   gap: 1rem;
-  background: linear-gradient(#250358, #440c66);
+  background: #ffffff;
   padding: 1.5rem;
   border-radius: 6px;
-  box-shadow: 0 2px 20px rgba(234, 78, 240, 0.2);
+  
   width: 33%;
   transition: all 0.2s
 }
 
 .concept:hover {
-  transform: translateY(-2px);
+  transform: translateY(-4px);
   transition: transform 0.2s;
-  box-shadow: 0 2px 30px rgba(234, 78, 240, 0.4);
-}
+  box-shadow: 0 2px 10px 0 #b3e4ff;
+ }
 
 .concept img {
   width: 6rem;
