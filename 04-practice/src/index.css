@@ -29,7 +29,7 @@ header {
 header h1 {
   margin: 0;
   white-space: nowrap;
-  font-size: 2rem;
+  font-size: 2.5rem;
   letter-spacing: 0.08rem;
 }
 
@@ -37,7 +37,7 @@ header p {
   margin: 0;
   padding-top: 0.5rem;
   font-family: 'Manrope', sans-serif;
-  font-size: 0.8rem;
+  font-size: 1rem;
   
 }
 
@@ -109,8 +109,8 @@ button {
 .button-container button:hover{
   transition: transform 0.2s;
   transform: translateY(-4px);
- 
- 
+  /* color: #042236;
+  background-color: #D3CDFB; */
   font-weight: 200;
   cursor: pointer;
   transition: all 0.2s;
